@@ -24,3 +24,25 @@ Hello!
    <li> 
      <strong>Hobbies:</strong> I love playing farming sims like Stardew Valley (currently playing it modded!) and MMOs :video_game:. I enjoy listening to podcasts or streams while working :headphones:. I like customizing keyboards and doing nails :nail_care: </li>
 </div>
+<br/>
+<br/>
+
+<!-- Connect -->
+
+<div id="connect" align="center">
+    <img src="https://media.giphy.com/media/smHCIquTc1cjlQEhiT/giphy.gif" width="28"/>
+    <strong>Let's work together!</strong>
+    <img src="https://media.giphy.com/media/smHCIquTc1cjlQEhiT/giphy.gif" width="28"/>
+</div>
+<br />
+<div id="buttons" align="center">
+  <a href="mailto:stephb.dev@gmail.com">
+    <img src="https://img.shields.io/badge/email-b6858d?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://twitter.com/httpstphs">
+    <img src="https://img.shields.io/badge/twitter-3e3743?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a> 
+  <a href="https://linkedin.com/in/stephbien">
+    <img src="https://img.shields.io/badge/linkedin-efe6e4?style=flat-square&logo=linkedin&logoColor=3e3743" alt="LinkedIn Badge" />
+  </a> 
+ </div>
