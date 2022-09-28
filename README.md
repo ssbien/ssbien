@@ -37,12 +37,39 @@ Hello!
 <br />
 <div id="buttons" align="center">
   <a href="mailto:stephb.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-b6858d?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/email-b6858d?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/httpstphs">
-    <img src="https://img.shields.io/badge/twitter-3e3743?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/twitter-3e3743?style=flat-square&logo=twitter&logoColor=white" />
   </a> 
   <a href="https://linkedin.com/in/stephbien">
-    <img src="https://img.shields.io/badge/linkedin-efe6e4?style=flat-square&logo=linkedin&logoColor=3e3743" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/linkedin-efe6e4?style=flat-square&logo=linkedin&logoColor=3e3743" />
   </a> 
  </div>
+ <br/>
+ <br/>
+ 
+ <!-- Skills -->
+ 
+ <div id="skills" align="center">
+  <h2>
+    Skills & Tools
+    <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"/>
+  </h2>
+<br />
+<div>
+  <img src="https://img.shields.io/badge/HTML5-ed7d5e?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4ea0db?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-79629e?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-434441?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Netlify-0ed3c3?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-ed6c55?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-2694e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codesandbox-727272?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
+</div>
+<br />
+<br />
+</div>
