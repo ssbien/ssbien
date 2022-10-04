@@ -16,13 +16,15 @@ Hello!
 <div id="facts">
    <li> :cherry_blossom: I started learning web development in June '22 </li>
    <li> :brain: I'm currently learning about web development from the SheCodes Workshops. </li>
-      <ul>
-      <li>
-        <strong>Now working on:</strong> (SheCodes Responsive) Portfolio Website :star2:
-      </li>
-      </ul>
+   <li>
+     <strong>Now working on:</strong> (SheCodes Responsive) Portfolio Website :star2:
+   </li>
    <li> 
-     <strong>Hobbies:</strong> I love playing farming sims like Stardew Valley (currently playing it modded!) and MMOs :video_game:. I enjoy listening to podcasts or streams while working :headphones:. I like customizing keyboards and doing nails :nail_care: </li>
+     <strong>Hobbies:</strong> I love playing farming sims like Stardew Valley (currently playing it modded!) and MMOs :video_game:. I enjoy listening to podcasts or streams while working :headphones:. I like customizing keyboards and doing nails :nail_care: 
+   </li>
+   <li>
+        <strong>Contact Me: </strong> stephb.dev@gmail.com
+   </li>
 </div>
 <br/>
 <br/>
@@ -57,19 +59,9 @@ Hello!
     <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"/>
   </h2>
 <br />
-<div>
-  <img src="https://img.shields.io/badge/HTML5-ed7d5e?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-4ea0db?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-79629e?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-434441?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Netlify-0ed3c3?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-ed6c55?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-2694e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codesandbox-727272?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
-</div>
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ps,pr,bootstrap,vscode,github)](https://skillicons.dev)
+
 <br />
 <br />
 </div>
